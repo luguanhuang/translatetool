@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configure>
+  <paraConfigure>
+    <pypath>python</pypath>
+	<transappId>20230219001567480</transappId>
+	<transsecretKey>flHYxHTlsjgV8JN4yUYe</transsecretKey>
+	<regappid>0d792789</regappid>
+	<regsecret>MjQ3YWNjYmY4MjRkZDI1NTI3MzAwNWUz</regsecret>
+	<regapikey>17e63c9682846e0590bb55f79dd78fa9</regapikey>
+  </paraConfigure>
+</Configure>

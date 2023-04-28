@@ -1,0 +1,17 @@
+F:\code\assign\c#code\translatetool\bin\Debug\translatetool.exe.config
+F:\code\assign\c#code\translatetool\bin\Debug\translatetool.exe
+F:\code\assign\c#code\translatetool\bin\Debug\translatetool.pdb
+F:\code\assign\c#code\translatetool\obj\Debug\translatetool.csproj.AssemblyReference.cache
+F:\code\assign\c#code\translatetool\obj\Debug\translatetool.Properties.Resources.resources
+F:\code\assign\c#code\translatetool\obj\Debug\translatetool.csproj.GenerateResource.cache
+F:\code\assign\c#code\translatetool\obj\Debug\translatetool.csproj.CoreCompileInputs.cache
+F:\code\assign\c#code\translatetool\obj\Debug\translatetool.exe
+F:\code\assign\c#code\translatetool\obj\Debug\translatetool.pdb
+F:\code\assign\c#code\translatetool\obj\Debug\translatetool.Form1.resources
+F:\code\assign\c#code\translatetool\bin\Debug\Newtonsoft.Json.dll
+F:\code\assign\c#code\translatetool\bin\Debug\Newtonsoft.Json.xml
+F:\code\assign\c#code\translatetool\obj\Debug\translatetool.csproj.CopyComplete
+C:\translatetool\translatetool\obj\Debug\translatetool.Form1.resources
+C:\translatetool\translatetool\obj\Debug\translatetool.Properties.Resources.resources
+C:\translatetool\translatetool\obj\Debug\translatetool.csproj.GenerateResource.cache
+C:\translatetool\translatetool\obj\Debug\translatetool.csproj.CoreCompileInputs.cache

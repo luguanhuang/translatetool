@@ -1,0 +1,326 @@
+init.ConnectAsync succeed state=Open
+sndmsgthd: before Event.WaitOne
+sndenglishmsgthd: before englishEvent.WaitOne
+sndRussianmsgthd: before Event.WaitOne
+ternibal ID=:65541 status=在线
+ TSDK_Req_OpenTermAudVid ret=0
+CSCallbackFunction:put data to list
+sndmsgthd: after Event.WaitOne
+sndmsgthd: send   will send message len=1326
+Tasker1: func beginTasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=1326need time=0
+showmsgthd: reLength=99
+showmsgthd: reLength=99
+sndmsgthd: dont have data
+showmsgthd: after reLength=99
+showmsgthd: after reLength=99
+sndmsgthd: before Event.WaitOne
+action=started
+CSCallbackFunction:put data to list
+sndmsgthd: after Event.WaitOne
+sndmsgthd: send   will send message len=11566
+Tasker1: func beginTasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=11566need time=1
+sndmsgthd: dont have data
+sndmsgthd: before Event.WaitOne
+CSCallbackFunction:put data to list
+sndmsgthd: after Event.WaitOne
+sndmsgthd: send   will send message len=14126
+Tasker1: func beginCSCallbackFunction:put data to list
+Tasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=14126need time=0
+sndmsgthd: send   will send message len=12846
+Tasker1: func beginTasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=12846need time=1
+sndmsgthd: dont have data
+sndmsgthd: before Event.WaitOne
+sndmsgthd: after Event.WaitOne
+sndmsgthd: dont have data
+sndmsgthd: before Event.WaitOne
+showmsgthd: reLength=318
+showmsgthd: after reLength=318
+action=result
+tmpdata={"seg_id":0,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":"'s","wp":"n","rl":"0","wb":13,"wc":0.00,"we":26}],"wb":0,"we":0}]}],"bg":"0","type":"1","ed":"0"}},"ls":false}
+type=1CSCallbackFunction:put data to list
+sndmsgthd: after Event.WaitOne
+sndmsgthd: send   will send message len=15406
+Tasker1: func beginGetResultData1: tmpdata='s
+showmsgthd: reLength=325
+showmsgthd: after reLength=325
+action=result
+tmpdata={"seg_id":1,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" Thirty","wp":"n","rl":"0","wb":26,"wc":0.00,"we":52}],"wb":0,"we":0}]}],"bg":"260","type":"1","ed":"0"}},"ls":false}
+type=1GetResultData1: tmpdata= Thirty
+CSCallbackFunction:put data to list
+Tasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=15406need time=0
+sndmsgthd: send   will send message len=15406
+Tasker1: func beginshowmsgthd: reLength=445
+showmsgthd: after reLength=445
+action=result
+tmpdata={"seg_id":2,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" Thirteen","wp":"n","rl":"0","wb":30,"wc":0.00,"we":60}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" years","wp":"n","rl":"0","wb":60,"wc":0.00,"we":90}],"wb":0,"we":0}]}],"bg":"300","type":"1","ed":"0"}},"ls":false}
+type=1GetResultData1: tmpdata= Thirteen years
+CSCallbackFunction:put data to list
+Tasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=15406need time=1
+sndmsgthd: send   will send message len=12846
+Tasker1: func beginCSCallbackFunction:put data to list
+Tasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=12846need time=0
+sndmsgthd: send   will send message len=15406
+Tasker1: func beginCSCallbackFunction:put data to list
+showmsgthd: reLength=823
+showmsgthd: after reLength=823
+action=result
+tmpdata={"seg_id":3,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" Thirteen","wp":"n","rl":"0","wb":33,"wc":0.00,"we":66}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" years","wp":"n","rl":"0","wb":66,"wc":0.00,"we":99}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":", ","og":",","wp":"p","rl":"0","wb":99,"wc":0.00,"we":99}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":"the","og":" the","wp":"n","rl":"0","wb":99,"wc":0.00,"we":132}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" name","wp":"n","rl":"0","wb":132,"wc":0.00,"we":165}],"wb":0,"we":0}]}],"bg":"330","type":"1","ed":"0"}},"ls":false}
+type=1GetResultData1: tmpdata= Thirteen years, the name
+CSCallbackFunction:put data to list
+Tasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=15406need time=1
+sndmsgthd: send   will send message len=15406
+Tasker1: func beginsndenglishmsgthd: after englishEvent.WaitOne
+sndRussianmsgthd: after Event.WaitOne
+sndRussianmsgthd: dont have data
+sndRussianmsgthd: before Event.WaitOne
+sndenglishmsgthd: type=CHINESE_TYPE not correctsndenglishmsgthd: before englishEvent.WaitOne
+showmsgthd: reLength=944
+showmsgthd: after reLength=944
+action=result
+tmpdata={"seg_id":4,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" Thirteen","wp":"n","rl":"0","wb":34,"wc":0.00,"we":68}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" years","wp":"n","rl":"0","wb":68,"wc":0.00,"we":102}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":", ","og":",","wp":"p","rl":"0","wb":102,"wc":0.00,"we":102}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":"the","og":" the","wp":"n","rl":"0","wb":102,"wc":0.00,"we":136}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" name","wp":"n","rl":"0","wb":136,"wc":0.00,"we":170}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" is","wp":"n","rl":"0","wb":170,"wc":0.00,"we":204}],"wb":0,"we":0}]}],"bg":"340","type":"1","ed":"0"}},"ls":false}
+type=1GetResultData1: tmpdata= Thirteen years, the name is
+CSCallbackFunction:put data to list
+CSCallbackFunction:put data to list
+Tasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=15406need time=1
+showmsgthd: reLength=446
+showmsgthd: after reLength=446
+action=result
+sndmsgthd: send   will send message len=12846
+sndmsgthd: send   will send message len=12846
+tmpdata={"seg_id":5,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" Thirty","wp":"n","rl":"0","wb":92,"wc":0.00,"we":138}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" years","wp":"n","rl":"0","wb":184,"wc":0.00,"we":230}],"wb":0,"we":0}]}],"bg":"920","type":"1","ed":"0"}},"ls":false}
+Tasker1: func begintype=1GetResultData1: tmpdata= Thirty years
+CSCallbackFunction:put data to list
+Tasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=12846need time=0
+sndmsgthd: send   will send message len=14126
+Tasker1: func beginTasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=14126need time=1
+sndmsgthd: send   will send message len=12846
+Tasker1: func beginshowmsgthd: reLength=1060
+showmsgthd: after reLength=1060
+action=result
+tmpdata={"seg_id":6,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" Thirteen","wp":"n","rl":"0","wb":64,"wc":0.00,"we":96}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" years","wp":"n","rl":"0","wb":128,"wc":0.00,"we":160}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" ago","wp":"n","rl":"0","wb":192,"wc":0.00,"we":224}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":", ","og":",","wp":"p","rl":"0","wb":224,"wc":0.00,"we":224}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":"my","og":" my","wp":"n","rl":"0","wb":224,"wc":0.00,"we":256}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" name","wp":"n","rl":"0","wb":256,"wc":0.00,"we":288}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" I","wp":"n","rl":"0","wb":288,"wc":0.00,"we":320}],"wb":0,"we":0}]}],"bg":"640","type":"1","ed":"0"}},"ls":false}
+type=1CSCallbackFunction:put data to list
+GetResultData1: tmpdata= Thirteen years ago, my name I
+showmsgthd: reLength=1183
+showmsgthd: after reLength=1183
+action=result
+tmpdata={"seg_id":7,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" Thirteen","wp":"n","rl":"0","wb":40,"wc":0.00,"we":80}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" years","wp":"n","rl":"0","wb":80,"wc":0.00,"we":120}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":", ","og":",","wp":"p","rl":"0","wb":120,"wc":0.00,"we":120}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":"the","og":" the","wp":"n","rl":"0","wb":120,"wc":0.00,"we":160}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" name","wp":"n","rl":"0","wb":160,"wc":0.00,"we":200}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" of","wp":"n","rl":"0","wb":200,"wc":0.00,"we":240}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" the","wp":"n","rl":"0","wb":240,"wc":0.00,"we":280}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" slushy","wp":"n","rl":"0","wb":280,"wc":0.00,"we":320}],"wb":0,"we":0}]}],"bg":"400","type":"1","ed":"0"}},"ls":false}
+type=1GetResultData1: tmpdata= Thirteen years, the name of the slushy
+Tasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=12846need time=0
+sndmsgthd: send   will send message len=14126
+Tasker1: func beginshowmsgthd: reLength=1420
+showmsgthd: after reLength=1420
+action=result
+tmpdata={"seg_id":8,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" Thirteen","wp":"n","rl":"0","wb":42,"wc":0.00,"we":63}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" years","wp":"n","rl":"0","wb":84,"wc":0.00,"we":105}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" ago","wp":"n","rl":"0","wb":126,"wc":0.00,"we":147}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":", ","og":",","wp":"p","rl":"0","wb":147,"wc":0.00,"we":147}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":"my","og":" my","wp":"n","rl":"0","wb":147,"wc":0.00,"we":168}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" name","wp":"n","rl":"0","wb":168,"wc":0.00,"we":189}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" is","wp":"n","rl":"0","wb":210,"wc":0.00,"we":231}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" Douglas","wp":"n","rl":"0","wb":273,"wc":0.00,"we":294}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" versus","wp":"n","rl":"0","wb":336,"wc":0.00,"we":357}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" lu","wp":"n","rl":"0","wb":357,"wc":0.00,"we":378}],"wb":0,"we":0}]}],"bg":"420","type":"1","ed":"0"}},"ls":false}
+type=1GetResultData1: tmpdata= Thirteen years ago, my name is Douglas versus lu
+CSCallbackFunction:put data to list
+Tasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=14126need time=0
+showmsgthd: reLength=1422
+showmsgthd: after reLength=1422
+action=result
+sndmsgthd: send   will send message len=12846
+tmpdata={"seg_id":9,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" Thirteen","wp":"n","rl":"0","wb":44,"wc":0.00,"we":66}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" years","wp":"n","rl":"0","wb":88,"wc":0.00,"we":110}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" ago","wp":"n","rl":"0","wb":132,"wc":0.00,"we":154}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":", ","og":",","wp":"p","rl":"0","wb":154,"wc":0.00,"we":154}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":"my","og":" my","wp":"n","rl":"0","wb":154,"wc":0.00,"we":176}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" name","wp":"n","rl":"0","wb":176,"wc":0.00,"we":198}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" is","wp":"n","rl":"0","wb":220,"wc":0.00,"we":242}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" Douglas","wp":"n","rl":"0","wb":286,"wc":0.00,"we":308}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" versus","wp":"n","rl":"0","wb":352,"wc":0.00,"we":374}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" Lucy","wp":"n","rl":"0","wb":396,"wc":0.00,"we":418}],"wb":0,"we":0}]}],"bg":"440","type":"1","ed":"0"}},"ls":false}
+Tasker1: func begintype=1GetResultData1: tmpdata= Thirteen years ago, my name is Douglas versus Lucy
+CSCallbackFunction:put data to list
+Tasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=12846need time=1
+showmsgthd: reLength=1921
+showmsgthd: after reLength=1921
+action=result
+sndmsgthd: send   will send message len=11566
+sndmsgthd: send   will send message len=11566
+tmpdata={"seg_id":10,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" Thirty","wp":"n","rl":"0","wb":40,"wc":0.00,"we":60}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" years","wp":"n","rl":"0","wb":80,"wc":0.00,"we":100}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" ago","wp":"n","rl":"0","wb":120,"wc":0.00,"we":140}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":", ","og":",","wp":"p","rl":"0","wb":140,"wc":0.00,"we":140}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":"my","og":" my","wp":"n","rl":"0","wb":140,"wc":0.00,"we":160}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" name","wp":"n","rl":"0","wb":160,"wc":0.00,"we":180}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" is","wp":"n","rl":"0","wb":200,"wc":0.00,"we":220}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" dash","wp":"n","rl":"0","wb":240,"wc":0.00,"we":260}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" devastly","wp":"n","rl":"0","wb":320,"wc":0.00,"we":340}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" city","wp":"n","rl":"0","wb":340,"wc":0.00,"we":360}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":", ","og":",","wp":"p","rl":"0","wb":360,"wc":0.00,"we":360}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":"even","og":" even","wp":"n","rl":"0","wb":360,"wc":0.00,"we":380}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" are","wp":"n","rl":"0","wb":400,"wc":0.00,"we":420}],"wb":0,"we":0},{"cw":[{"sc":0.00,"w":" they","wp":"n","rl":"0","wb":420,"wc":0.00,"we":440}],"wb":0,"we":0}]}],"bg":"400","type":"1","ed":"0"}},"ls":false}
+Tasker1: func begintype=1GetResultData1: tmpdata= Thirty years ago, my name is dash devastly city, even are they
+CSCallbackFunction:put data to list
+CSCallbackFunction:put data to list
+Tasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=11566need time=1
+sndmsgthd: send   will send message len=15406
+Tasker1: func beginCSCallbackFunction:put data to list
+showmsgthd: reLength=1456
+showmsgthd: after reLength=1456
+Tasker1: call recvnextEvent.Set()976
+sndmsgthd: will send message len=15406need time=0
+showmsgthd: reLength=582
+showmsgthd: after reLength=582
+toolStripMenuItem4_Click: CloseAsync*********************************
+sndmsgthd: send   will send message len=14126
+Tasker1: func beginTasker1: return type=ENGLISH_TYPE not correctsndmsgthd: will send message len=14126need time=0
+sndmsgthd: type=ENGLISH_TYPE not correctsndmsgthd: before Event.WaitOne
+sndmsgthd: after Event.WaitOne
+sndmsgthd: type=ENGLISH_TYPE not correctsndmsgthd: before Event.WaitOne
+CSCallbackFunction:put data to list
+sndenglishmsgthd: after englishEvent.WaitOne
+sndenglishmsgthd: before will send message len=14126
+sndenglishmsgthd: error will reconnect
+CSCallbackFunction:put data to list
+CSCallbackFunction:put data to list
+toolStripMenuItem4_Click: after webSocket0.ConnectAsync succeed
+sndenglishmsgthd: will send message len=14126need time=1
+sndenglishmsgthd: before will send message len=12846
+sndenglishmsgthd: send   will send message len=12846
+Tasker2: func beginTasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=12846need time=1
+CSCallbackFunction:put data to list
+showenmsgthd: reLength=99
+showenmsgthd: after reLength=99
+action=started
+sndenglishmsgthd: before will send message len=12846
+sndenglishmsgthd: send   will send message len=12846
+Tasker2: func beginCSCallbackFunction:put data to list
+Tasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=12846need time=0
+sndenglishmsgthd: before will send message len=14126
+sndenglishmsgthd: send   will send message len=14126
+Tasker2: func beginCSCallbackFunction:put data to list
+Tasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=14126need time=1
+sndenglishmsgthd: before will send message len=14126
+sndenglishmsgthd: send   will send message len=14126
+Tasker2: func beginTasker2: call recvnextEvent.Set()976
+CSCallbackFunction:put data to list
+CSCallbackFunction:put data to list
+sndenglishmsgthd: will send message len=14126need time=0
+sndenglishmsgthd: before will send message len=14126
+sndenglishmsgthd: send   will send message len=14126
+Tasker2: func beginshowenmsgthd: reLength=322
+showenmsgthd: after reLength=322
+action=result
+tmpdata={"seg_id":0,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" Gle","wp":"n","rl":"0","wb":13,"wc":0.00,"we":26}],"wb":0,"we":0}]}],"bg":"960","type":"1","ed":"0"}},"ls":false}
+type=1GetResultData1: tmpdata=
+GetResultData2: tmpdata= Gle
+Tasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=14126need time=0
+sndenglishmsgthd: before will send message len=12846
+sndenglishmsgthd: send   will send message len=12846
+Tasker2: func beginCSCallbackFunction:put data to list
+Tasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=12846need time=1
+sndenglishmsgthd: before will send message len=11566
+sndenglishmsgthd: send   will send message len=11566
+Tasker2: func beginshowenmsgthd: reLength=332
+showenmsgthd: after reLength=332
+action=result
+tmpdata={"seg_id":1,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" Glossa","wp":"n","rl":"0","wb":17,"wc":0.00,"we":100}],"wb":17,"we":100}]}],"bg":"960","type":"0","ed":"2250"}},"ls":false}
+type=0GetResultData1: tmpdata= Glossa
+GetResultData2: tmpdata= Glossa
+CSCallbackFunction:put data to list
+Tasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=11566need time=0
+sndenglishmsgthd: before will send message len=14126
+sndenglishmsgthd: send   will send message len=14126
+Tasker2: func beginCSCallbackFunction:put data to list
+Tasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=14126need time=0
+sndenglishmsgthd: before will send message len=14126
+sndenglishmsgthd: send   will send message len=14126
+Tasker2: func beginTasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=14126need time=1
+sndenglishmsgthd: dont have data
+sndenglishmsgthd: before englishEvent.WaitOne
+sndenglishmsgthd: after englishEvent.WaitOne
+sndenglishmsgthd: dont have data
+sndenglishmsgthd: before englishEvent.WaitOne
+CSCallbackFunction:put data to list
+sndenglishmsgthd: after englishEvent.WaitOne
+sndenglishmsgthd: before will send message len=12846
+sndenglishmsgthd: send   will send message len=12846
+Tasker2: func beginshowenmsgthd: reLength=323
+showenmsgthd: after reLength=323
+action=result
+tmpdata={"seg_id":2,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" The","wp":"n","rl":"0","wb":13,"wc":0.00,"we":26}],"wb":0,"we":0}]}],"bg":"2880","type":"1","ed":"0"}},"ls":false}
+type=1GetResultData1: tmpdata= Glossa
+GetResultData2: tmpdata= Glossa The
+Tasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=12846need time=0
+CSCallbackFunction:put data to list
+CSCallbackFunction:put data to list
+sndenglishmsgthd: dont have data
+sndenglishmsgthd: before englishEvent.WaitOne
+sndenglishmsgthd: after englishEvent.WaitOne
+sndenglishmsgthd: before will send message len=12846
+sndenglishmsgthd: send   will send message len=12846
+Tasker2: func beginCSCallbackFunction:put data to list
+showenmsgthd: reLength=480
+showenmsgthd: after reLength=480
+action=result
+tmpdata={"seg_id":3,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":". ","og":".","wp":"p","rl":"0","wb":13,"wc":0.00,"we":13}],"wb":13,"we":13},{"cw":[{"sc":0.00,"w":"Soccer","og":" Soccer","wp":"n","rl":"0","wb":13,"wc":0.00,"we":108}],"wb":13,"we":108}]}],"bg":"2880","type":"0","ed":"4090"}},"ls":false}
+type=0GetResultData1: tmpdata= Glossa. Soccer
+GetResultData2: tmpdata= Glossa. Soccer
+Tasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=12846need time=1
+sndenglishmsgthd: before will send message len=14126
+sndenglishmsgthd: send   will send message len=14126
+Tasker2: func beginCSCallbackFunction:put data to list
+Tasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=14126need time=0
+sndenglishmsgthd: before will send message len=12846
+sndenglishmsgthd: send   will send message len=12846
+Tasker2: func beginsndRussianmsgthd: after Event.WaitOne
+CSCallbackFunction:put data to list
+sndRussianmsgthd: dont have data
+sndRussianmsgthd: before Event.WaitOne
+Tasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=12846need time=1
+sndenglishmsgthd: before will send message len=12846
+sndenglishmsgthd: send   will send message len=12846
+Tasker2: func beginCSCallbackFunction:put data to list
+Tasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=12846need time=0
+sndenglishmsgthd: before will send message len=15406
+sndenglishmsgthd: send   will send message len=15406
+Tasker2: func beginCSCallbackFunction:put data to list
+Tasker2: call recvnextEvent.Set()976
+sndenglishmsgthd: will send message len=15406need time=1
+sndenglishmsgthd: before will send message len=14126
+sndenglishmsgthd: send   will send message len=14126
+Tasker2: func beginshowenmsgthd: reLength=323
+showenmsgthd: after reLength=323
+action=result
+tmpdata={"seg_id":4,"cn":{"st":{"rt":[{"ws":[{"cw":[{"sc":0.00,"w":" But","wp":"n","rl":"0","wb":13,"wc":0.00,"we":26}],"wb":0,"we":0}]}],"bg":"5160","type":"1","ed":"0"}},"ls":false}
+type=1GetResultData1: tmpdata= Glossa. Soccer
+GetResultData2: tmpdata= Glossa. Soccer But
+CSCallbackFunction:put data to list
+Tasker2: return type=RUSSIAN_TYPE not correctsndenglishmsgthd: will send message len=14126need time=0
+sndenglishmsgthd: type=RUSSIAN_TYPE not correctsndenglishmsgthd: before englishEvent.WaitOne
+sndenglishmsgthd: after englishEvent.WaitOne
+sndenglishmsgthd: type=RUSSIAN_TYPE not correctsndenglishmsgthd: before englishEvent.WaitOne
+showenmsgthd: reLength=439
+showenmsgthd: return type=RUSSIAN_TYPE not correctCSCallbackFunction:put data to list
+sndRussianmsgthd: after Event.WaitOne
+sndRussianmsgthd: before will send message len=65280
+len11=65280
+sndmsgthd: after Event.WaitOne
+sndmsgthd: type=RUSSIAN_TYPE not correctsndmsgthd: before Event.WaitOne
+len22=65280
+len33=65280
+len44=65280
+CSCallbackFunction:put data to list
+p_OutputDataReceived: len66=
+p_OutputDataReceived: len77=
+p_OutputDataReceived: len66=
+strtmpdataaa =
+strtmpdatbbb =
+strtmpdatbbb =
+strtmpdatccc =
+len55=65280
+sndRussianmsgthd: will send message len=65280need time=3
+sndRussianmsgthd: before will send message len=64000
+len11=64000
+len22=64000
+len33=64000
+len44=64000
+CSCallbackFunction:put data to list
+OnClosing: click 

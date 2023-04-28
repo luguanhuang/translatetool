@@ -1,0 +1,60 @@
+sndrussiantranslatethd:  before russiantranslateEvent.WaitOne
+sndtranslatethd:  111
+sndtranslatethd:  after translateEvent.WaitOne 111
+sndtranslatethd: url=http://api.fanyi.baidu.com/api/trans/vip/translate?q=+Thirty&from=zh&to=en&appid=20230219001567480&salt=3386&sign=e513605e119bbf995f18b8a0e5509904
+sndtranslatethd1111: retString111aaa={"from":"zh","to":"en","trans_result":[{"src":"Thirty","dst":"Thirty"}]}
+sndtranslatethd: strres=Thirty
+sndmsgthd: will send message need time=1
+sndtranslatethd:  111
+sndtranslatethd:  after translateEvent.WaitOne 111
+sndtranslatethd: url=http://api.fanyi.baidu.com/api/trans/vip/translate?q=+Thirteen+years%2c+the+name&from=zh&to=en&appid=20230219001567480&salt=3064&sign=e296f82c533ee936c79c70da080730a0
+sndtranslatethd1111: retString111aaa={"from":"zh","to":"en","trans_result":[{"src":"Thirteen years, the name","dst":"Thirteen years, the name"}]}
+sndtranslatethd: strres=Thirteen years, the name
+sndmsgthd: will send message need time=0
+sndtranslatethd:  111
+sndtranslatethd:  after translateEvent.WaitOne 111
+sndtranslatethd: url=http://api.fanyi.baidu.com/api/trans/vip/translate?q=+Thirty+years&from=zh&to=en&appid=20230219001567480&salt=75582&sign=6995b062fd4cf15fddb0e2c2c3eef4dd
+sndtranslatethd1111: retString111aaa={"from":"zh","to":"en","trans_result":[{"src":"Thirty years","dst":"Thirty years"}]}
+sndtranslatethd: strres=Thirty years
+sndmsgthd: will send message need time=1
+sndtranslatethd:  111
+sndtranslatethd:  after translateEvent.WaitOne 111
+sndtranslatethd: url=http://api.fanyi.baidu.com/api/trans/vip/translate?q=+Thirteen+years+ago%2c+my+name+is+Douglas+versus+Lucy&from=zh&to=en&appid=20230219001567480&salt=9062&sign=cab4cec3bad2ac5c659f3112639d7fbb
+sndtranslatethd1111: retString111aaa={"from":"zh","to":"en","trans_result":[{"src":"Thirteen years ago, my name is Douglas versus Lucy","dst":"Thirteen years ago, my name is Douglas versus Lucy"}]}
+sndtranslatethd: strres=Thirteen years ago, my name is Douglas versus Lucy
+sndmsgthd: will send message need time=0
+sndenglishtranslatethd:  111
+sndenglishtranslatethd:  after translateEvent.WaitOne 111
+sndtranslatethd: url=http://api.fanyi.baidu.com/api/trans/vip/translate?q=&from=en&to=zh&appid=20230219001567480&salt=41568&sign=464e50b1b72a5fd681d40c91ead15c1f
+sndenglishtranslatethd: retString111aaa={"error_code":"54000","error_msg":"PARAM_FROM_TO_OR_Q_EMPTY"}
+errcode=54000
+sndenglishtranslatethd:  111
+sndenglishtranslatethd:  after translateEvent.WaitOne 111
+sndtranslatethd: url=http://api.fanyi.baidu.com/api/trans/vip/translate?q=+Glossa&from=en&to=zh&appid=20230219001567480&salt=78535&sign=e374ed627959db67535c9952b44e9b72
+sndenglishtranslatethd: retString111aaa={"from":"en","to":"zh","trans_result":[{"src":"Glossa","dst":"\u5149\u6cfd"}]}
+sndenglishtranslatethd: strres=光泽
+sndenglishtranslatethd: will send message need time=0
+sndenglishtranslatethd:  111
+sndenglishtranslatethd:  after translateEvent.WaitOne 111
+sndtranslatethd: url=http://api.fanyi.baidu.com/api/trans/vip/translate?q=+Glossa.+Soccer&from=en&to=zh&appid=20230219001567480&salt=23144&sign=7e8fe4a0763760bc50eddc2826e7ceeb
+sndenglishtranslatethd: retString111aaa={"from":"en","to":"zh","trans_result":[{"src":"Glossa. Soccer","dst":"\u5149\u6cfd\u3002\u8db3\u7403"}]}
+sndenglishtranslatethd: strres=光泽。足球
+sndenglishtranslatethd: will send message need time=0
+sndrussiantranslatethd:  after russiantranslateEvent.WaitOne
+sndrussiantranslatethd:  dont have data
+sndrussiantranslatethd:  before russiantranslateEvent.WaitOne
+sndenglishtranslatethd:  111
+sndenglishtranslatethd:  after translateEvent.WaitOne 111
+sndtranslatethd: url=http://api.fanyi.baidu.com/api/trans/vip/translate?q=+Glossa&from=en&to=zh&appid=20230219001567480&salt=84864&sign=ce93516ec29b63f92f60577024606c51
+sndenglishtranslatethd: retString111aaa={"from":"en","to":"zh","trans_result":[{"src":"Glossa","dst":"\u5149\u6cfd"}]}
+sndenglishtranslatethd: strres=光泽
+sndenglishtranslatethd: will send message need time=0
+sndrussiantranslatethd:  after russiantranslateEvent.WaitOne
+sndrussiantranslatethd:  111
+sndrussiantranslatethd:  after russiantranslateEvent.WaitOne 111
+sndrussiantranslatethd: url=http://api.fanyi.baidu.com/api/trans/vip/translate?q=%d0%a3%d0%b4%d0%b8%d0%b2%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be&from=ru&to=zh&appid=20230219001567480&salt=10066&sign=7f87d1825605cf01ca84b2a25edf7989
+sndrussiantranslatethd: cnt=22
+sndrussiantranslatethd: retString111aaa={"from":"ru","to":"zh","trans_result":[{"src":"\u0423\u0434\u0438\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e","dst":"\u4ee4\u4eba\u60ca\u8bb6\u7684"}]}
+sndrussiantranslatethd: strres=令人惊讶的
+sndrussiantranslatethd: will send message need time=0
+sndrussiantranslatethd:  before russiantranslateEvent.WaitOne

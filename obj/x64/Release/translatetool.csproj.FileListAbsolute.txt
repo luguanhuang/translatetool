@@ -1,0 +1,4 @@
+C:\translatetool\translatetool\obj\x64\Release\translatetool.Form1.resources
+C:\translatetool\translatetool\obj\x64\Release\translatetool.Properties.Resources.resources
+C:\translatetool\translatetool\obj\x64\Release\translatetool.csproj.GenerateResource.cache
+C:\translatetool\translatetool\obj\x64\Release\translatetool.csproj.CoreCompileInputs.cache
